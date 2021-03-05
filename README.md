@@ -1,7 +1,6 @@
 # API Wars
 
-The site provides data about the planets, with lots of details, from
-the Star Wars Universe. 
+The site is an interactive wiki for the Star Wars Universe. 
 
 ![Register](/img/register.png 'Register')
 
